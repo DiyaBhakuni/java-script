@@ -10,7 +10,7 @@ if(ch==1){
 result=i+j; } 
 else if(ch==2){ 
 result=i-j; } 
-else if(ch==3){ 
+else if(ch==3){  
 result=i*j; } 
 else if(ch==4){ 
 result =i/j; 
